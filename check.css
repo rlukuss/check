@@ -1,0 +1,13 @@
+div{
+  font-size:400%;
+  padding-top:10%;
+}
+#one{
+  text-align:left;
+}
+#two{
+  text-align:center;
+}
+#three{
+  text-align:right;
+}
